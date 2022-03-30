@@ -1,0 +1,1103 @@
+.rectangle-1{
+    position: absolute;
+    width: 375px;
+    height: 1725px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 33.33%, rgba(213, 224, 255, 0) 100%);
+}
+
+.rectangle-2{
+    color: #000;
+    position: absolute;
+    width: 375px;
+    height: 103px;
+    left: 0px;
+    top: 0px;
+
+    background: rgba(255, 255, 255, 0.47);
+    box-shadow: 0px 4px 14px rgba(24, 160, 251, 0.12);
+    backdrop-filter: blur(4px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 0px 0px 14px 14px;
+}
+
+.rectangle-3{
+    position: absolute;
+    width: 375px;
+    height: 841px;
+    left: 0px;
+    top: 1725px;
+    background: linear-gradient(165.41deg, #D99EC9 0%, rgba(246, 240, 196, 0) 100%);
+}
+
+.rectangle-4{    
+    position: absolute;
+    width: 375px;
+    height: 611px;
+    left: 0px;
+    top: 2566px;
+
+    background: #DCE9E9;
+}
+
+.rectangle-5{
+    position: absolute;
+    width: 375px;
+    height: 431px;
+    left: 0px;
+    top: 3472px;
+
+    background: linear-gradient(180deg, #FFF6FB 0%, #FFFFFF 100%);
+}
+
+.rectangle-6{
+    position: absolute;
+    width: 375px;
+    height: 394px;
+    left: 0px;
+    top: 4244px;
+
+    background: linear-gradient(176.88deg, #F3B8BC 2.58%, #FFDAD4 93.07%);
+}
+
+.rectangle-7{
+    position: absolute;
+    width: 375px;
+    height: 421px;
+    left: 0px;
+    top: 4999px;
+
+    background: linear-gradient(270deg, #DADAE4 0.25%, #EEEEF0 24.33%, #F8F8F8 52.08%, #FEFEFE 100%);
+}
+
+.rectangle-8{
+    position: absolute;
+    width: 375px;
+    height: 646px;
+    left: 0px;
+    top: 5670px;
+
+    background: #F66E6E;
+}
+
+.rectangle-9{
+    position: absolute;
+    width: 375px;
+    height: 373px;
+    left: 0px;
+    top: 6316px;
+
+    background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 100%);
+}
+
+.rectangle-10{
+    position: absolute;
+    width: 375px;
+    height: 430px;
+    left: 0px;
+    top: 6693px;
+    background: #050506;
+}
+
+.rectangle-11{
+    position: absolute;
+    width: 216px;
+    height: 30px;
+    left: 39px;
+    top: 361px;
+    font-size: small;
+    background: rgba(255, 255, 255, 0.62);
+    border: 1px solid #E7F6FC;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.rectangle-12{
+    font-size: 12px;
+    position: absolute;
+    width: 85px;
+    height: 27.48px;
+    left: 262px;
+    top: 361px;
+    background: #D6F4FB;
+    border: 1.2782px solid #E9F4FF;
+    box-sizing: border-box;
+    border-radius: 17.2556px;
+}
+
+.rectangle-13{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 45px;
+    font-size: 19px;
+     
+    position: absolute;
+    width: 215px;
+    height: 32px;
+    left: 30px;
+    top: 320px;
+
+    background: linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%);
+    box-shadow: 0px 2px 16px rgba(71, 222, 255, 0.33);
+    border-radius: 70px;
+}
+
+.rectangle-14{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 45px;
+
+    position: absolute;
+    width: 255px;
+    height: 46px;
+    left: 15px;
+    top: 417px;
+
+    background: linear-gradient(297.28deg, #F66E6E 67.01%, rgba(246, 110, 110, 0) 123.71%);
+    filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
+    border-radius: 70px;
+}
+
+.rectangle-15{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 45px;
+
+    position: absolute;
+    width: 250px;
+    height: 34px;
+    left: 17px;
+    top: 300px;
+
+    background: linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%);
+    box-shadow: 0px 2px 16px rgba(71, 222, 255, 0.33);
+    border-radius: 70px;
+}
+
+.rectangle-16{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 45px;
+
+    position: absolute;
+    width: 250px;
+    height: 36px;
+    left: 10px;
+    top: 270px;
+
+    background: linear-gradient(297.28deg, #F66E6E 67.01%, rgba(246, 110, 110, 0) 123.71%);
+    filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
+    border-radius: 70px;
+}
+
+.rectangle-17{
+    position: absolute;
+    width: 287px;
+    height: 43px;
+    left: 44px;
+    top: 561px;
+
+    background: #000000;
+    border-radius: 27px;
+}
+
+.time{
+    position: absolute;
+    height: 18px;
+    left: 8.27%;
+    right: 83.73%;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    /* identical to box height */
+
+    letter-spacing: 0.0703846px;
+
+    color: #000000;
+}
+
+.signal{
+    position: absolute;
+    width: 17px;
+    height: 18px;
+    left: 294px;
+    top: 18.41px;
+}
+
+.wifi{
+    position: absolute;
+    width: 14.34px;
+    height: 18px;
+    left: 316.66px;
+    top: 18.41px;
+}
+
+.battery{
+    position: absolute;
+    width: 24.25px;
+    height: 18px;
+    left: 336.5px;
+    top: 18px;
+}
+
+.menu{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 24px;
+    top: 58px;
+}
+
+.cart{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 278px;
+    top: 58px;
+}
+
+.bell{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 326px;
+    top: 58px;
+}
+
+.title{
+    position: absolute;
+    width: 183px;
+    height: 30px;
+    left: 96px;
+    top: 120px;
+
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 30px;
+
+    color: #1B1B50;
+}
+
+.sub{
+    position: absolute;
+    width: 290px;
+    height: 23px;
+    left: 42px;
+    top: 213px;
+
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #1B1B50;
+
+}
+
+.about{
+    position: absolute;
+    width: 308px;
+    height: 75px;
+    left: 33px;
+    top: 273px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 179%;
+    /* or 25px */
+    color: #000000;
+}
+
+.line{
+    position: absolute;
+    width: 297px;
+    height: 0px;
+    left: 46px;
+    top: 374px;
+    border: 1px solid #000000;
+}
+
+.philosophy{
+    position: absolute;
+    width: 177px;
+    height: 33px;
+    left: 99px;
+    top: 406px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+
+
+    color: #1B1B50;
+}
+
+.title2{
+    position: absolute;
+    width: 323px;
+    height: 132px;
+    left: 35px;
+    top: 456px;
+
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 134.8%;
+    /* or 44px */
+
+    text-align: center;
+
+    color: #1B1B50;
+}
+
+.mission{
+    position: absolute;
+    width: 300px;
+    height: 232px;
+    left: 33px;
+    top: 675px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 179%;
+    /* or 29px */
+
+    text-align: center;
+
+    color: #1B1B50;
+
+}
+
+.ecosystem{
+    position: absolute;
+    width: 309px;
+    height: 493px;
+    left: 32px;
+    top: 1005px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 179%;
+    /* or 29px */
+
+    text-align: center;
+
+    color: #1B1B50;
+
+}
+
+.consider{
+    position: absolute;
+    width: 308px;
+    height: 116px;
+    left: 33px;
+    top: 1564px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 179%;
+    /* or 29px */
+
+    text-align: center;
+
+    color: #1B1B50;
+}
+
+.what{
+    position: absolute;
+    width: 375px;
+    height: 33px;
+    left: 34px;
+    top: 20px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+    /* identical to box height */
+
+    color: #1B1B50;
+
+}
+
+.reimagining{
+    position: absolute;
+    width: 335px;
+    height: 86px;
+    left: 34px;
+    top: 70px;
+
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 134.8%;
+    /* or 43px */
+
+
+    color: #1B1B50;
+}
+
+.you{
+    position: absolute;
+    width: 308px;
+    height: 575px;
+    left: 34px;
+    top: 200px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 180%;
+    /* or 25px */
+
+
+    color: #1B1B50;
+}
+
+.liberate{
+    position: absolute;
+    width: 335px;
+    height: 66px;
+    left: 33px;
+    top: 10px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+
+    color: #1B1B50;
+}
+
+.shop{
+    position: absolute;
+    width: 329px;
+    height: 86px;
+    left: 33px;
+    top: 85px;
+
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 134.8%;
+    /* or 43px */
+
+
+    color: #000000;
+}
+
+.gentle{
+    position: absolute;
+    width: 325px;
+    height: 145px;
+    left: 33px;
+    top: 215px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 206.5%;
+    /* or 29px */
+
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.upgrade{
+    position: static;
+    width: 237px;
+    height: 30px;
+    left: 39px;
+    top: 18px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19.8605px;
+    line-height: 30px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+}
+
+.rose{
+    position: absolute;
+    width: 375px;
+    height: 562px;
+    left: 0px;
+    top: 368px;
+}
+
+.nasties{
+    position: absolute;
+    width: 335px;
+    height: 33px;
+    left: 20px;
+    top: 500px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.track{
+    position: absolute;
+    width: 345px;
+    height: 43px;
+    left: 30px;
+    top: 19px;
+
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 134.8%;
+    /* or 43px */
+
+
+    color: #000000;
+}
+
+.all{
+    position: absolute;
+    width: 311px;
+    height: 145px;
+    left: 33px;
+    top: 105px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 206.5%;
+    /* or 29px */
+
+
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.track2{
+    position: static;
+    width: 300px;
+    height: 30px;
+    left: 19px;
+    top: 18px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19.8605px;
+    line-height: 30px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+}
+
+.g1{
+    position: absolute;
+    width: 365px;
+    height: 230px;
+    left: 16px;
+    top: 3884px;
+}
+
+.g2{
+    position: absolute;
+    width: 365px;
+    height: 230px;
+    left: 205px;
+    top: 3884px;
+}
+
+.g3{
+    position: absolute;
+    width: 365px;
+    height: 230px;
+    left: 16px;
+    top: 4063px;
+}
+
+.g4{
+    position: absolute;
+    width: 365px;
+    height: 230px;
+    left: 205px;
+    top: 4063px;
+}
+
+.period{
+    position: absolute;
+    width: 353px;
+    height: 43px;
+    left: 30px;
+    top: 10px;
+
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 134.8%;
+    /* or 43px */
+
+
+    color: #000000;
+}
+
+.stay{
+    position: absolute;
+    width: 308px;
+    height: 145px;
+    left: 33px;
+    top: 97px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 206.5%;
+    /* or 29px */
+
+
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.track3{
+    position: static;
+    width: 375px;
+    height: 30px;
+    left: 16px;
+    top: 18px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19.8605px;
+    line-height: 30px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+}
+
+.calendar{
+    position: absolute;
+    width: 375px;
+    height: 375px;
+    left: 0px;
+    top: 4638px;
+}
+
+.consult{
+    position: absolute;
+    width: 335px;
+    height: 86px;
+    left: 27px;
+    top: 0px;
+
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 134.8%;
+    /* or 43px */
+    color: #000000;
+}
+
+.set{
+    position: absolute;
+    width: 308px;
+    height: 145px;
+    left: 30px;
+    top: 125px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 206.5%;
+    /* or 29px */
+
+
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.consultation{
+    position: static;
+    width: 186px;
+    height: 30px;
+    left: 64.5px;
+    top: 18px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19.8605px;
+    line-height: 30px;
+    /* identical to box height */
+
+    text-align: center;
+    color: #FFFFFF;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+}
+
+.doctor{
+    position: absolute;
+    width: 375px;
+    height: 290px;
+    left: 0px;
+    top: 5420px;
+}
+
+.personalised{
+    position: absolute;
+    width: 335px;
+    height: 86px;
+    left: 33px;
+    top: 19px;
+
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 134.8%;
+    /* or 43px */
+
+
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.sachet{
+    position: absolute;
+    width: 387px;
+    height: 290px;
+    left: -12px;
+    top: 135px;
+}
+
+.get{
+    position: absolute;
+    width: 308px;
+    height: 145px;
+    left: 33px;
+    top: 373px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 206.5%;
+    /* or 29px */
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.create{
+    position: absolute;
+    width: 217.49px;
+    height: 29px;
+    left: 20px;
+    top: -7px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 206.5%;
+    /* identical to box height, or 29px */
+
+
+    color: #FFFFFF;
+}
+
+.right0{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 257px;
+    top: 14px;
+}
+
+.with{
+    position: absolute;
+    width: 274px;
+    height: 220px;
+    left: 47px;
+    top: 50px;
+
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 134.8%;
+    /* or 44px */
+
+
+    color: rgba(0, 0, 0, 0.8);
+
+}
+
+.fb{
+    display: initial !important;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 266px;
+    top: 6750px;
+}
+
+.twitter{
+    display: initial !important;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 306px;
+    top: 6750px;
+}
+
+.products{
+    position: absolute;
+    width: 59px;
+    height: 39px;
+    left: 37px;
+    top: 107px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 206.5%;
+    /* identical to box height, or 29px */
+
+
+    color: #FFFFFF;
+}
+
+.ourScience{
+    position: absolute;
+    width: 180px;
+    height: 29px;
+    left: 37px;
+    top: 147px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 206.5%;
+    /* identical to box height, or 29px */
+
+
+    color: #FFFFFF;
+}
+
+.vision{
+    position: absolute;
+    width: 206px;
+    height: 29px;
+    left: 37px;
+    top: 187px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 206.5%;
+    /* identical to box height, or 29px */
+
+
+    color: #FFFFFF;
+}
+
+.aboutUs{
+    position: absolute;
+    width: 150px;
+    height: 29px;
+    left: 37px;
+    top: 227px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 206.5%;
+    /* identical to box height, or 29px */
+
+
+    color: #FFFFFF;
+}
+
+.line2{
+    position: absolute;
+    width: 306px;
+    height: 0px;
+    left: 38px;
+    top: 307px;
+
+    border: 1px solid #E3F4FF;
+}
+
+.subscribe{
+    position: absolute;
+    width: 191px;
+    height: 18px;
+    left: 39px;
+    top: 330px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 8.94737px;
+    line-height: 206.5%;
+    /* or 18px */
+
+
+    color: #FFFFFF;
+}
+
+.enter{
+    position: absolute;
+    width: 375px;
+    height: 25px;
+    left: 10px;
+    top: -10px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 206.5%;
+    /* identical to box height, or 25px */
+
+
+    color: #000000;
+}
+
+.mail{
+    position: absolute;
+    width: 14.34px;
+    height: 14.34px;
+    top:6px;
+    left:7px;
+}
+
+.activate{
+    position: absolute;
+    width: 38.98px;
+    height: 18.53px;
+    left: 29px;
+    top: -4px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 8.94737px;
+    line-height: 206.5%;
+    /* identical to box height, or 18px */
+    color: #1B1B50;
+}
+
+.right1{
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    left: 76px;
+    top: 9px;
+}
+
+.right2{
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    left: 98px;
+    top: 9px;
+}
+
+.right3{
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    left: 124px;
+    top: 9px;
+}
+
+.right4{
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    left: 78px;
+    top: 9px;
+}
